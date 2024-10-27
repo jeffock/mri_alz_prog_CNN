@@ -1,0 +1,4 @@
+# Ignore all in Data dir
+Data/
+# Ignore all .jpg
+*.jpg
