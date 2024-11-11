@@ -1,5 +1,6 @@
 # Ignore all in Data dir
 Data/
+Alzheimers-ADNI/
 .ipynb_checkpoints/
 # Ignore all .jpg
 *.jpg
