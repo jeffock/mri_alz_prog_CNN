@@ -1,4 +1,5 @@
 # Ignore all in Data dir
 Data/
+.ipynb_checkpoints/
 # Ignore all .jpg
 *.jpg
