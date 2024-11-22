@@ -2,6 +2,7 @@
 Data/
 Alzheimers-ADNI/
 Reduced-Alzheimers-ADNI/ 
+Reduced-Alzheimers-ADNI2/ 
 .ipynb_checkpoints/
 # Ignore all .jpg
 *.jpg
